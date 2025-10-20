@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/den-vasyliev/kbot-src
+  repository: ghcr.io/rkhomchenko/kbot-src
   tag: ""
   pullPolicy: IfNotPresent
 nameOverride: ""
